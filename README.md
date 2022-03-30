@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Furkan. I am digital game designer at Bilgi University. 
+- 👀 I’m interested in coding and game.
+- 🌱 I’m currently learning Unity, Unreal Engine.
