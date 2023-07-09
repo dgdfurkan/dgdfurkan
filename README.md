@@ -16,3 +16,9 @@
 
 - 👀 My interests lie in the realm of coding and game development, and I'm constantly exploring new ways to fuse these two disciplines together.
 - 🌱 At present, I'm deepening my knowledge of Unity and Unreal Engine, two of the most prominent game development platforms that offer unparalleled opportunities to create captivating and immersive games.
+
+<h2 align="center"></h2>
+
+![Furkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dgdfurkan&show_icons=true&theme=transparent&rank_icon=github&hide_border=true)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgdfurkan&layout=compact&theme=transparent&langs_count=8&hide_border=true)
+
+
