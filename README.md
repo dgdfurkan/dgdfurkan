@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dgdfurkan&label=Profile%20views&color=0e75b6&style=flat" alt="dgdfurkan" /> </p>
 
-- 📫 How to reach me **furkangunduz.dev@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/furkangunduz60" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/furkangunduz60" height="30" width="40" /></a>
